@@ -1,0 +1,3 @@
+1.在windows下定制的UTBMAP.kext不能直接使用,没有设置机型
+2.使用hackintool随便生成一个USBPorts.kext,并把UTBMAP.kext里面的信息替换过来
+3.修正后加入oc重启后重新使用hackintool导出aml+kext
